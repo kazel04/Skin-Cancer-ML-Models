@@ -1,5 +1,7 @@
 # Skin-Cancer-ML-Models
-Compiled from over 3K image sets with a 95% accuracy rate. Do use the models in fields relating to skin and AI research.
+Compiled from over 3K image sets with a 95% accuracy rate. 
+
+Do use the models in fields relating to skin and AI research.
 Skin ailments include: 
 Melanoma, 
 Basal Cell Carcinoma,
