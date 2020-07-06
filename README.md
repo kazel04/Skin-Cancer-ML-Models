@@ -8,7 +8,7 @@ Dermatofibroma,
 Pigmented Benign Keratosis,
 Seborrheic Keratosis,
 Squamous Cell Carcinoma,
-Vascular Lesions,
+Vascular Lesions.
 
 Control image dataset is composed from normal skin images.
 Images range from high-quality to low-quality to compensate for any possible deviations due to image quality.
