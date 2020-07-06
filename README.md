@@ -16,4 +16,7 @@ Images range from high-quality to low-quality to compensate for any possible dev
 
 
 DISCLAIMER: MODELS ARE NOT CLINICALLY TESTED.
+
+
+ML Models are under 
 Image datasets are from ISIC under the Creative Commons License.
